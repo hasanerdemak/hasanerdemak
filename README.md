@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
-I'm currently working on a game project. I'm also trying to learn advanced programming skills.  I am committed to using my skills and experience to contribute to the success of any team I am a part of, and I am eager to take on new challenges and learn from others.
+I'm currently trying to learn advanced programming skills.  I am committed to using my skills and experience to contribute to the success of any team I am a part of, and I am eager to take on new challenges and learn from others.
 
 ### 📫 How to reach me:
 - **Email:** [hasanerdemak@gmail.com](mailto:hasanerdemak@gmail.com)
